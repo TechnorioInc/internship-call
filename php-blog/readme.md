@@ -28,4 +28,4 @@ References of StackOverflow:
 * Implemented concept of MVC.
 * Use of any frameworks like Codeigniter, Laravel.
 * Well documented.
-* Followed PSR for development of PHP.
+* Followed PSR-0, PSR-1, PSR-2, PSR-4 for development of PHP.
