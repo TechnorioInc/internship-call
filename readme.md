@@ -26,12 +26,12 @@ Taking this challenge requires basic knowledge in respective fields to what you 
 			
 			1. If you are new to Git, you may want to take a Git class in [git class in codeschool](https://try.github.io/levels/1/challenges/1).
 			2. If you are having difficulties in setting up Git in your computer, you may take the reference [here](https://gist.github.com/cham11ng/fee11faf2f41667fad3c9a8c69fde2c2)
-			3. After you accomplish the challenge, push your code to the `private repository` you created *(Make sure you have multiple commits with proper messages and comments)*.
+			3. After you accomplish the challenge, push your code to the private repository you created in BitBucket (Make sure you have multiple commits with proper messages and comments).
 			4. Invite `TechnorioIntern` to that particular private repository you created.
 
 		* *For Google Drive:*
 			1.	Upload your Projects in Google Drive
-			2.	Provide access to the uploaded file by sending access rights to  `projects@technorio.net.np`.
+			2.	Provide access to the uploaded file by sending access rights to  `connect.technorio@gmail.com`.
 
 3. **Fill the application form at https://technorio.com/career**
 
