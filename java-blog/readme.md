@@ -13,7 +13,7 @@
 
 References of StackOverflow:
 
-[![StackOverflow](https://github.com/cham11ng/internship-challenges/blob/master/java-blog/picture.png)](http://stackoverflow.com/questions/ask)
+[![StackOverflow](picture.png)](http://stackoverflow.com/questions/ask)
 
 **Important** - Bitbucket private repository name must be `technorio-java-back`
 
