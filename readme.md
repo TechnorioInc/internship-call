@@ -13,7 +13,6 @@ Taking this challenge requires basic knowledge in respective fields to what you 
 	* [Android App Development](android)
 	* [Web Designing](front-end)
 	* [Graphic Designer](graphic-design)
-	* [Java](java-blog)
 	* [PHP](php-blog)
 	* [WordPress Development](wordpress)
 
