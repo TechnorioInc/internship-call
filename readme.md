@@ -8,7 +8,7 @@ Taking this challenge requires basic knowledge in respective fields to what you 
 	
 ### How to apply?
 
-1. **To apply and join as an intern at Technorio, you need to work on the task from any one of the following position and submit the project to us. Please choose the challenge according to the position you are applying for.**
+1. **To apply as an intern at Technorio by taking Internship Challenge , you need to work on the task from any one of the following position and submit the project to us. Please choose the challenge according to the position you are applying for.**
 	
 	* [Android App Development](android)
 	* [Web Designing](front-end)
